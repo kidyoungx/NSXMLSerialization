@@ -14,6 +14,8 @@ Pod::Spec.new do |s|
   s.author             = { "Kid Young" => "kidyoungx@gmail.com" }
 
   s.platform     = :ios, "5.0"
+  s.ios.deployment_target = "5.0"
+  s.osx.deployment_target = "10.7"
 
   s.source       = { :git => "https://github.com/kidyoungx/NSXMLSerialization.git", :tag => "#{s.version}" }
 
