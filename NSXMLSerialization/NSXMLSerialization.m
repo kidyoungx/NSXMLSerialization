@@ -229,7 +229,7 @@ NSString * const kNSXMLSerializationCommentsKey = @"__comments";
             }
         }
         return;
-
+        /* Testing
         id parentNode = previousElement[elementName];
         id text = processingElement[kNSXMLSerializationTextNodeKey];
         NSString *innerText = text;
@@ -245,6 +245,7 @@ NSString * const kNSXMLSerializationCommentsKey = @"__comments";
             }
         }
         return;
+         */
     }
 }
 
