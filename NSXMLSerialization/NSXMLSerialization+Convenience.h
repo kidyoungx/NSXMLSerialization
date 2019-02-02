@@ -6,7 +6,7 @@
 //  Copyright © 2017 Yang XiHong. All rights reserved.
 //
 
-#import <CinCer/NSXMLSerialization.h>
+#import <NSXMLSerialization.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
