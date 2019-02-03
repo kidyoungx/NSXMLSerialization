@@ -1,0 +1,1 @@
+../../../../../NSXMLSerialization/NSXMLSerialization+Convenience.h

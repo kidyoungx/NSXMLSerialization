@@ -1,0 +1,16 @@
+PODS:
+  - NSXMLSerialization (1.0.1)
+
+DEPENDENCIES:
+  - NSXMLSerialization (from `../`)
+
+EXTERNAL SOURCES:
+  NSXMLSerialization:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NSXMLSerialization: bbe6de420e3aeed90d9ac6623823600788c2ab33
+
+PODFILE CHECKSUM: 23fcbb5db9063572b60bb6228ae7a22ffa44ce3c
+
+COCOAPODS: 1.5.3
